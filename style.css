@@ -1,0 +1,31 @@
+.bg-primary {
+    background-color: blueviolet !important;
+}
+
+.bg-success {
+    background-color: darkcyan !important;
+}
+
+.bg-info {
+    background-color: bisque !important;
+}
+
+.bg-warning {
+    background-color: coral !important;
+}
+
+.bg-danger {
+    background-color: crimson !important;
+}
+
+.bg-light {
+    background-color: beige !important;
+}
+
+.bg-secondary {
+    background-color: darkkhaki !important;
+}
+
+.mx-3 {
+  margin-left: 3rem !important;
+}
